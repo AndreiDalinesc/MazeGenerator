@@ -1,1 +1,1 @@
-# MazeGenerator
+# CornMaze
